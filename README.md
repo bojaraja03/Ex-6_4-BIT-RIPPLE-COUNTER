@@ -61,9 +61,7 @@ endmodule
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 <img width="1468" height="766" alt="image" src="https://github.com/user-attachments/assets/ffc4864c-9adc-4187-be56-f6466d291c81" />
 
-RESULTS
-Thus the 4 Bit Ripple Counter using verilog is implemented and their functionality using their functional tables is validated.
-
 
 
 **RESULTS**
+Thus the 4 Bit Ripple Counter using verilog is implemented and their functionality using their functional tables is validated.
